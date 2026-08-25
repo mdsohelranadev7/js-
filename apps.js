@@ -244,3 +244,28 @@ let sk='orange';
     console.log(wellCome);
 }
 console.log(`${sk} is my wellcome`);
+
+
+console.log(5+6-5/2*6);
+
+
+
+
+
+function myName(fullNames,age,dateofbirth= '(enter your dateofbirth)'){
+    console.log('hello '+ fullNames + 'I am '+age+' year old '+  'my date of birth '+ dateofbirth);
+}
+
+myName("sohel rana. ", 21,  2006,)
+myName("Sijuka. ",18,2009,)
+
+
+
+
+
+function myButton() {
+    console.log('subcribed');
+}
+
+document.getElementById('btn').addEventListener
+('click', myButton);
