@@ -269,3 +269,26 @@ function myButton() {
 
 document.getElementById('btn').addEventListener
 ('click', myButton);
+
+
+
+
+// function 
+
+
+
+
+function myfather(){
+    console.log(10+220);
+}
+myfather(); 
+
+
+
+
+function fullnam(x, y) {
+    console.log(x + y);
+}
+
+
+fullnam(5+5);
