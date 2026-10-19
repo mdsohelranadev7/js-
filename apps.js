@@ -291,4 +291,43 @@ function fullnam(x, y) {
 }
 
 
-fullnam(5+5);
+fullnam(5,3)
+
+
+function lastnam(a,b){
+    return a+b;
+}
+
+let result = lastnam(20,20);
+console.log(result);
+
+function myfac(a, b){
+    console.log(a+b);
+}
+
+myfac(50,35);
+
+function nextTopic(names){
+    if(names>20){
+        console.log('big');
+
+    }else{
+        console.log('small');
+
+    }
+}
+console.log(nextTopic(18));
+
+
+
+
+function nextTopic(names){
+    if(names>20){
+       return   
+
+    }else{
+        console.log('small');
+
+    }
+}
+console.log(nextTopic(18));
