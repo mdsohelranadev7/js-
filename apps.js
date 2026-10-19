@@ -13,7 +13,7 @@ if (sum < 100) {
 } else {
     console.log('cheep');
 }
-
+ 
 if (sum < 100) {
     console.log('ture');
 } else {
@@ -52,8 +52,6 @@ console.log(firstName);
 // ! javascript Variables
 
 // var Variables
-
-
 /* var variables    
 
 you can re declar 
