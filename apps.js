@@ -37,10 +37,10 @@ document.getElementById('title').innerHTML = 'bangladesh man will'
 // !  sentax
 
 function sayhello(name) {
-    console.log(`hello ${name}`);
+    console.log(`hello ${name}`);git
 }
 sayhello('shovo');
-
+sdfad
 
 
 let firstName = 'sohel rana'
